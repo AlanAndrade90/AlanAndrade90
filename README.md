@@ -14,15 +14,14 @@ languages and tools:<br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-<br>
-
 <div align="left">
   <a href="https://github.com/AlanAndrade90">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanandrade90&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="right" alt="Alan-pic" height="300" width="383" style="border-radius:50px;" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
-  <img height="180em" width="460" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanandrade90&layout=compact&langs_count=7&theme=dark"/>
+  <img height="240em" width="460" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanandrade90&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+  <br>
+  <br>
 
 if you like what i do, maybe consider buying me a coffee
   
@@ -33,3 +32,5 @@ if you like what i do, maybe consider buying me a coffee
   <a href = "mailto:alanandrade.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+  
