@@ -19,7 +19,7 @@ languages and tools:<br>
 <div align="left">
   <a href="https://github.com/AlanAndrade90">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanandrade90&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="right" alt="Rafa-pic" height="300" width="380" style="border-radius:50px;" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
+  <img align="right" alt="Alan-pic" height="300" width="383" style="border-radius:50px;" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
   <img height="180em" width="460" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanandrade90&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
