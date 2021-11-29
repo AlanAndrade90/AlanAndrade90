@@ -17,7 +17,7 @@ languages and tools:<br>
 <div align="left">
   <a href="https://github.com/AlanAndrade90">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanandrade90&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="240em" width="460" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanandrade90&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanandrade90&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   <br>
@@ -30,7 +30,7 @@ if you like what i do, maybe consider buying me a coffee
   <a href="https://www.youtube.com/channel/UCFqzDfQRhXcpPQDuQPyf_Ww" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/alan.4ndrade" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:alanandrade.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/alanandrade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
   
